@@ -1,0 +1,16 @@
+[
+{
+  "modid": "satdisp",
+  "name": "Saturation Display",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tassu_"],
+  "credits": "Eum3 for the original idea.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
